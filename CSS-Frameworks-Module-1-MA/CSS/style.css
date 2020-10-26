@@ -1,0 +1,50 @@
+nav {
+  background-color: #F4F3EE;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+nav li {
+  display: inline-block;
+}
+
+nav a {
+  display: block;
+  padding: 6px 12px;
+  text-decoration: none;
+  color: red;
+}
+
+body {
+  height: 100%;
+}
+
+.container {
+  min-height: 100%;
+}
+
+.headingH2 {
+  text-align: center;
+  color: #463F3A;
+  padding: 20px;
+}
+
+.one {
+  background-color: red;
+}
+
+.card-body {
+  background-color: #F4F3EE;
+  height: 250px;
+  border: 2px solid #F4F3EE;
+  border-radius: 30px;
+}
+
+.col-sm {
+  width: 100%;
+}
+/*# sourceMappingURL=style.css.map */
